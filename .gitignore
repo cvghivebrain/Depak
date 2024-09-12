@@ -2,3 +2,5 @@
 __history/*
 *.PAK
 *.bat
+*.identcache
+*.local
